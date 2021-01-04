@@ -25,7 +25,7 @@ SECRET_KEY = '4a1ca)f+i$dfu5106q)p&pkd7t-4(#f4!gd65haims03dg0xc3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'django-news-website.herokuapp.com/']
+ALLOWED_HOSTS = []
 
 
 # Application definition
